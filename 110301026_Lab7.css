@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+.input-container {
+  margin: 20px;
+}
+
+input {
+  margin: 10px;
+  padding: 5px;
+  width: 100px;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+table {
+  width: 60%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #000;
+  text-align: center;
+  padding: 8px;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+tfoot td {
+  font-weight: bold;
+  background-color: #D0D0D0;
+}
